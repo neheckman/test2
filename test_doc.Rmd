@@ -1,0 +1,11 @@
+---
+title: "test"
+author: "Nancy"
+date: "28/01/2022"
+output: html_document
+---
+
+```{r}
+x <- c(1,2,3)
+mean(x)
+```
